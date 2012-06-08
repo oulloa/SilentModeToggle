@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, SilentModeToggleActivity!</string>
     <string name="app_name">SilentModeToggle</string>
+    <string name="toggle_silent_mode">Toggle Silent Mode</string>
 
 </resources>
